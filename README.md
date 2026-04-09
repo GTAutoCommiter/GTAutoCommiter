@@ -1,70 +1,51 @@
-# � Hi, I'm GTAutoCommiter!
+# �‍💻 GTAutoCommiter 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=GTAutoCommiter&subText=Creative%20Frontend%20Engineer&fontSize=70&subFontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Building%20Bridges%20with%20Code&fontSize=50&animation=fadeIn" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/全栈工程师-探索者-141414?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/状态-逻辑驱动中-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/坐标-中国·深圳-red?style=for-the-badge" />
+</p>
+
+
+---
+
+### 🚀 视角与探索
+
+*作为一个全栈开发者，我不仅关注像素的跳动，更在意数据在高并发与稳定架构间的流畅流转。*
+
+- 🏗️ **架构思维**：比起单纯的编码，我更喜欢设计能够自我生长、优雅应对复杂逻辑的系统。
+- ⚡ **效率主义**：就像我的 ID `GTAutoCommiter` 所暗示的，我热衷于通过自动化工具将开发者从繁琐的重复劳动中解放出来。
+- � **极简哲学**：崇尚代码即文档，追求逻辑上的闭环与表达上的精炼。
+- 🧭 **全能探索**：从用户的第一眼视觉反馈，到数据库底层的毫秒级响应，我享受掌控全链路的技术细节。
+
+---
+
+### 📊 开发者画像
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTAutoCommiter&theme=calm&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+### 💬 极客信条
+
+> "工程师的任务不是为了展示复杂性，而是为了在复杂之中寻找最简洁的真理。"
+
+---
+
+### � 建立连接
 
 <p align="center">
   <a href="https://github.com/GTAutoCommiter">
-    <img src="https://img.shields.io/github/followers/GTAutoCommiter?label=Follow&style=for-the-badge&color=212121&link=https://github.com/GTAutoCommiter" alt="Follow" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Frontend-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based-China-red?style=for-the-badge" />
-</p>
-
----
-
-### � About Me
-- 💼 **Frontend Engineer** dedicated to creating smooth and engaging user experiences.
-- 🚀 Specialized in **React**, **Vue**, and modern web technologies.
-- 🛠️ Currently building tools to automate workflows and enhance developer productivity.
-- 🎨 Passionate about UI/UX design and clean code.
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GTAutoCommiter&layout=compact&theme=radical" alt="WakaTime Stats" />
-  </a>
-</div>
-
----
-
-### � My Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,sass,nodejs,git,webpack,vite,figma,vscode,postman,docker&perline=8" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GTAutoCommiter&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GTAutoCommiter's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTAutoCommiter&layout=compact&theme=radical&hide=html,css&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://komarev.com/ghpvc/?username=GTAutoCommiter&label=访客脚印&color=212121&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTAutoCommiter&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://github.com/GTAutoCommiter">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GTAutoCommiter&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>每一个 Commit，都是对未来的一份承诺。</i>
 </p>
